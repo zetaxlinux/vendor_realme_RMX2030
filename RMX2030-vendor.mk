@@ -2644,7 +2644,6 @@ PRODUCT_COPY_FILES += \
     vendor/realme/RMX2030/proprietary/vendor/lib64/camera.device@3.5-impl.so:$(TARGET_COPY_OUT_VENDOR)/lib64/camera.device@3.5-impl.so \
     vendor/realme/RMX2030/proprietary/vendor/lib64/hw/android.hardware.camera.provider@2.4-impl.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/android.hardware.camera.provider@2.4-impl.so \
     vendor/realme/RMX2030/proprietary/vendor/lib64/hw/audio.primary.trinket.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/audio.primary.trinket.so \
-    vendor/realme/RMX2030/proprietary/vendor/lib64/hw/consumerir.trinket.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/consumerir.trinket.so \
     vendor/realme/RMX2030/proprietary/vendor/lib64/hw/fingerprint.goodix_fod.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/fingerprint.goodix_fod.so \
     vendor/realme/RMX2030/proprietary/vendor/lib64/libaudio_log_utils.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libaudio_log_utils.so \
     vendor/realme/RMX2030/proprietary/vendor/lib64/libaudioalsa.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libaudioalsa.so \
